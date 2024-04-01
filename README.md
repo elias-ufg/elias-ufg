@@ -21,6 +21,22 @@ Grava/salva as mudanças realizadas nos arquivos em um espaço temporário e vol
 Lista todos os _commits_ realizados no projeto ou no arquivo específicado.
 ## `git whatchanged`
 Lista todos os _commits_ realizados no projeto ou no arquivo específicado.
+## `git branch`
+Mostra os _branchs_ existentes e permite criar um novo _branch_. 
+## `git checkout`
+Permite trocar de _branch_. 
+```
+git checkout nomebranch
+```
+
+Também é possível criar um branch e acessa-lo utilizando o parâmetro _-b_
+```
+git checkout -b nomebranch
+```
+## `git merge`
+Faz o _merge_ de um _branch_ em outro:
+1. acesse o branch de destino
+2. informe o comando _get merge_ com o nome do _branch_ a ser mesclado. 
 ## `git clone`
 Faz uma copia de um reposiório remoto para a maquina local. 
 ## `git remote`
