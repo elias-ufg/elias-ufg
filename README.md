@@ -56,7 +56,7 @@ Lista todos os _commits_ realizados no projeto ou no arquivo específicado.
 
 ### Adicionando uma chave _ssh_
 1. Clique na imagem do seu perfil (lado direito superior)
-2. Escolha a opção _settings_
-3. No lado esquerdo, escolha _SSH and CPG keys_
-4. Acesse o _guide to connecting to GitHub using SSH keys_
-5. Veja as instruções no tópico _Generating a new SSH key and adding it to the ssh-agent_
+2. Escolha a opção _settings_: https://github.com/settings/profile
+3. No lado esquerdo, escolha _SSH and CPG keys_: https://github.com/settings/keys
+4. Acesse o _guide to connecting to GitHub using SSH keys_: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+5. Veja as instruções no tópico _Generating a new SSH key and adding it to the ssh-agent_: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
