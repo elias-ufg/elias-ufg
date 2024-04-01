@@ -51,3 +51,12 @@ Baixa as atualizações do repositório remoto.
 Grava/salva as mudanças realizadas nos arquivos em um espaço temporário e volta a última versão.
 ### `git whatchanged`
 Lista todos os _commits_ realizados no projeto ou no arquivo específicado.
+
+## definindo uma chave _ssh_
+
+### Adicionando uma chave _ssh_
+1. Clique na imagem do seu perfil (lado direito superior)
+2. Escolha a opção _settings_
+3. No lado esquerdo, escolha _SSH and CPG keys_
+4. Acesse o _guide to connecting to GitHub using SSH keys_
+5. Veja as instruções no tópico _Generating a new SSH key and adding it to the ssh-agent_
